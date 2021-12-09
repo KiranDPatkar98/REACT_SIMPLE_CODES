@@ -1,0 +1,9 @@
+.todolistcontainer{
+    border: 4px solid black;
+    margin: 10px;
+    height: 400px;
+    width: 500px;
+   background-color: orange;
+   overflow-y: auto;
+   overflow-x: hidden;
+}
